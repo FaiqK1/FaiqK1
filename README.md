@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Faiq Khan</h1>
 <h3 align="center">A passionate developer from the UK</h3>
+<h4 align="center">iOS Developer @ WOLF/Palringo | Indie Game Dev </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiqk1&label=Profile%20views&color=0e75b6&style=flat" alt="faiqk1" /> </p>
 
