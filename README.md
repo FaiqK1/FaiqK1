@@ -28,6 +28,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiqk1&show_icons=true&locale=en" alt="faiqk1" /></p>
 
+<h2 align="center">Work: WOLF</h2>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiqwolf&show_icons=true&locale=en" alt="FaiqWolf" /></p>
+
 
 <!---
 - 👋 Hi, I’m @FaiqK1
