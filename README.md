@@ -4,22 +4,24 @@
 <h3 align="center">A passionate developer from the UK</h3>
 <h4 align="center"> [ iOS Developer | Indie Game Dev ] </h4>
 
-<h2 align="center">Work Account: </h2>
-- 💼 WOLF -  The World's Online Festival - [https://github.com/FaiqWolf](@FaiqWolf)
+<h2 align="left">Current Employment:</h2>
+<p align="left">
+• 💼 WOLF -  The World's Online Festival - [FaiqWolf](https://github.com/FaiqWolf/)
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiqk1&label=Profile%20views&color=0e75b6&style=flat" alt="faiqk1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiqk1" alt="faiqk1" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI & Unity Game Development**
+• 🌱 I’m currently learning **SwiftUI & Unity Game Development**
 
-- 👨‍💻 All of my projects are available at [http://www.faiq.co.uk](http://www.faiq.co.uk)
+• 👨‍💻 All of my projects are available at [http://www.faiq.co.uk](http://www.faiq.co.uk)
 
-- 📝 I regularly write articles on [http://www.faiq.co.uk/blog/](http://www.faiq.co.uk/blog/)
+• 📝 I regularly write articles on [Blog](http://www.faiq.co.uk/blog/)
 
-- 📄 Know about my experiences [http://www.faiq.co.uk/Faiq%20KhanCV.pdf](FaiqKhanCV.pdf)
+• 📄 Know about my experiences [FaiqKhanCV.pdf](http://www.faiq.co.uk/Faiq%20KhanCV.pdf)
 
-- ⚡ Fun fact **Square watermelons are grown in Japan**
+• ⚡ Fun fact **Square watermelons are grown in Japan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
