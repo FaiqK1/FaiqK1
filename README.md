@@ -5,9 +5,9 @@
 
 <h2 align="left"></h2>
 
-• 💼 **Current Employment:** *WOLF - 'The World's Online Festival'*  |  iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/)
+• 💼 **Current Employment:** *WOLF Qanawat (formely known as Palringo)*  |  iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/)
 
-• 🌱 I’m expanding my **Unity** skills for 3D game experiences while continuing **iOS** development.
+• 🌱 I’m expanding my *Unity* skills for 3D game experiences while continuing *iOS* development.
 
 • 👨‍💻 All of my projects are available at [faiq.co.uk](http://www.faiq.co.uk)
 
