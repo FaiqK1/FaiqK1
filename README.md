@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Faiq Khan</h1>
+<h1 align="center">Hi 👋, I'm Faiq</h1>
 <h3 align="center"> [ iOS Developer | Indie Game Dev ] </h3>
 
 <h2 align="left"></h2>
