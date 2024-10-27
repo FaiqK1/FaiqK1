@@ -5,7 +5,7 @@
 
 <h2 align="left"></h2>
 
-• 💼 **Current Employment:** *WOLF Qanawat (formerly Palringo)*  - iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/)
+• 💼 **Current Employment:** *WOLF Qanawat (formerly Palringo)*  - Full time iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/) - (Working remotely)
 
 • 🌱 I’m expanding my *Unity* skills for 3D game experiences while continuing *iOS* development.
 
@@ -13,7 +13,7 @@
 
 • 📝 I try to regularly write articles on my [Blog](http://www.faiq.co.uk/blog/)
 
-• 📄 Ressume: [FaiqKhanCV.pdf](http://www.faiq.co.uk/Faiq%20KhanCV.pdf)
+• 📄 [Resume](http://www.faiq.co.uk/Faiq%20KhanCV.pdf)
 
 • ⚡ Fun fact: **Square watermelons are grown in Japan**
 
