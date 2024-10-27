@@ -7,7 +7,7 @@
 
 • 💼 **Current Employment:** *WOLF - 'The World's Online Festival'*  |  iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/)
 
-• 🌱 I’m expanding my skills in Unity to create 3D immersive experiences while continuing to work on iOS development and exploring cross-platform solutions.
+• 🌱 I’m expanding my **Unity** skills for 3D game experiences while continuing **iOS** development.
 
 • 👨‍💻 All of my projects are available at [faiq.co.uk](http://www.faiq.co.uk)
 
