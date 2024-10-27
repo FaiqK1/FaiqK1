@@ -7,7 +7,7 @@
 
 • 💼 **Current Employment:** *WOLF Qanawat (formerly Palringo)*  - Full time iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/) - (Working remotely)
 
-• 🌱 I’m expanding my **Unity* skills for 3D game experiences while continuing *iOS* development.
+• 🌱 I’m expanding my **Unity** skills for 3D game experiences while continuing **iOS** development.
 
 • 👨‍💻 Check out my projects: [faiq.co.uk](http://www.faiq.co.uk)
 
