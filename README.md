@@ -9,9 +9,9 @@
 
 • 🌱 I’m expanding my **Unity** skills for 3D game experiences while continuing **iOS** development.
 
-• 👨‍💻 Check out my projects: [faiq.co.uk](http://www.faiq.co.uk)
+• 👨‍💻 [Portfolio](http://www.faiq.co.uk)
 
-• 📝 I try to regularly write articles on my [Blog](http://www.faiq.co.uk/blog/)
+• 📝 [Blog](http://www.faiq.co.uk/blog/)
 
 • 📄 [Resume](http://www.faiq.co.uk/Faiq%20KhanCV.pdf)
 
