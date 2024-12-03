@@ -17,6 +17,8 @@
 
 • ⚡ Fun fact: **Square watermelons are grown in Japan**
 
+[![Watch the video]([http://www.faiq.co.uk/wp-content/uploads/2024/11/NEw-Pocket-Fusion-Logo_1k_blk_bkgrnd-e1732347945133.png])([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=0xK8SYZzry0))
+
 <h2 align="left"></h2>
 
 <h3 align="left">Connect with me:</h3>
