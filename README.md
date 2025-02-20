@@ -5,7 +5,7 @@
 
 <h2 align="left"></h2>
 
-• 💼 **Current Employment(Remote):** *WOLF Qanawat (formerly Palringo)*  - Full time iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/) - (Working remotely)
+• 💼 **Current Employment(Remote):** *WOLF Qanawat (formerly Palringo)*  - Full time iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/) )
 
 • 🌱 I’m expanding my **Unity** skills for 3D game experiences while continuing **iOS** development.
 
