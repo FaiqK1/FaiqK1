@@ -13,7 +13,6 @@
 
 • 📝 [Blog](http://www.faiq.co.uk/blog/)
 
-• 📄 [Resume](http://www.faiq.co.uk/FaiqKhanCV.pdf)
 
 • ⚡ Fun fact: **Square watermelons are grown in Japan**
 
