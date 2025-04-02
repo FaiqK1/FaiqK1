@@ -18,9 +18,17 @@
 
 <h2 align="left"></h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">App Release:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faiq-khan-42072677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiq-khan-42072677" height="30" width="40" /></a>
+</p>
+
+<h2 align="left"></h2>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://apps.apple.com/gb/app/pocket-fusion/id6451365111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h2 align="left"></h2>
