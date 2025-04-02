@@ -20,11 +20,16 @@
 
 <h3 align="left">App Release:</h3>
 <p align="left">
-  <a href="https://apps.apple.com/gb/app/pocket-fusion/id6451365111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+  <a href="https://apps.apple.com/gb/app/pocket-fusion/id6451365111" target="blank">
+    <img align="center" src="pocketFusionLogo.png" alt="" height="128" width="128" />
+  </a>
+</p>
+
+<p align="left">
+  <strong>Pocket Fusion</strong>
 </p>
 
 <h2 align="left"></h2>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
