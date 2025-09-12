@@ -1,20 +1,27 @@
 
 
 <h1 align="center">Hi 👋, I'm Faiq</h1>
-<h3 align="center"> [ iOS Developer | Indie Game Dev ] </h3>
+<h3 align="center"> [ iOS Engineer | Indie Game Dev ] </h3>
 
 <h2 align="left"></h2>
 
-• 💼 **Current Employment(Remote):** *WOLF Qanawat (formerly Palringo)*  - Full time iOS Developer [@FaiqWolf](https://github.com/FaiqWolf/)
+## 🌟 About Me
 
-• 🌱 I’m expanding my **Unity** skills for 3D game experiences while continuing **iOS** development.
+🌱 Euilding immersive 3D worlds in **Unity** while crafting seamless **iOS** experiences.
+- 👨‍💻 [Portfolio](http://www.faiq.co.uk)  
+- 📝 [Blog](http://www.faiq.co.uk/blog/)  
+- ⚡ Fun fact: **Square watermelons are grown in Japan**  
 
-• 👨‍💻 [Portfolio](http://www.faiq.co.uk)
+## 💼 Recent Employment
 
-• 📝 [Blog](http://www.faiq.co.uk/blog/)
+- **iOS Engineer**  
+  *Music Tribe (Midas Consoles)* · Hybrid  
+  *Present*
 
+- **iOS Developer**  
+  *WOLF Qanawat (formerly Palringo)* · Remote  
+  *Past* · [@FaiqWolf](https://github.com/FaiqWolf/)
 
-• ⚡ Fun fact: **Square watermelons are grown in Japan**
 
 <h2 align="left"></h2>
 
