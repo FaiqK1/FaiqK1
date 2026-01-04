@@ -26,25 +26,10 @@
 <h2 align="left"></h2>
 
 <h3 align="left">App Releases:</h3>
-<p align="left">
-  <a href="https://apps.apple.com/gb/app/pocket-fusion/id6451365111" target="blank">
-    <img align="center" src="pocketFusionLogo.png" alt="" height="128" width="128" />
-  </a>
-  
-</p>
-
-<p align="left">
-  <strong>Pocket Fusion</strong>
-</p>
 
 <p align="left"> 
-  <a href="https://apps.apple.com/us/app/eggsplode/id1502897721" target="blank">
-    <img align="center" src="eggsplodeLogo.png" alt="" height="128" width="128" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Eggsplode</strong>
+<a href="https://apps.apple.com/gb/app/pocket-fusion/id6451365111"> <img src="pocketFusionLogo.png" width="128" height="128" /></a>
+<a href="https://apps.apple.com/us/app/eggsplode/id1502897721"><img src="eggsplodeLogo.png" width="128" height="128" /></a>
 </p>
 
 <h2 align="left"></h2>
