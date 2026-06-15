@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-🌱 Euilding immersive 3D worlds in **Unity** while crafting seamless **iOS** experiences.
+🌱 Building immersive 3D worlds in **Unity** while crafting seamless **iOS** experiences.
 - 👨‍💻 [Portfolio](http://www.faiq.co.uk)  
 - 📝 [Blog](http://www.faiq.co.uk/blog/)  
 - ⚡ Fun fact: **Square watermelons are grown in Japan**  
