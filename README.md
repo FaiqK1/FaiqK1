@@ -13,9 +13,13 @@
 
 ## 💼 Recent Employment
 
-- **iOS Engineer**  
-  *Music Tribe (Midas Consoles)* · Hybrid  
+- **Senior iOS Engineer**  
+  *Methods* · Remote/Hybrid  
   *Present*
+  
+- **Senior iOS Engineer**  
+  *Music Tribe (Midas Consoles)* · Hybrid  
+  *Past*
 
 - **iOS Developer**  
   *WOLF Qanawat (formerly Palringo)* · Remote  
