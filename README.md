@@ -27,6 +27,7 @@
 <h3 align="left">App Releases:</h3>
 
 <p align="left"> 
+<a href="https://apps.apple.com/gb/app/story-cauldron/id6814032389"> <img src="story_cauldron_app_icon.png" width="128" height="128" /></a>
 <a href="https://apps.apple.com/gb/app/pocket-fusion/id6451365111"> <img src="pocketFusionLogo.png" width="128" height="128" /></a>
 <a href="https://apps.apple.com/us/app/eggsplode/id1502897721"><img src="eggsplodeLogo.png" width="128" height="128" /></a>
 </p>
